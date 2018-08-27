@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "WordQuest.data.unityweb",
+"asmCodeUrl": "WordQuest.asm.code.unityweb",
+"asmMemoryUrl": "WordQuest.asm.memory.unityweb",
+"asmFrameworkUrl": "WordQuest.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
